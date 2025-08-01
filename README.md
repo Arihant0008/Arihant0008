@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on AI/ML projects in stock market analysis & image processing<br>👯 Open to collaborations in AI, trading & finance <br>🤝 Seeking help with advanced ML models <br>🌱 Learning MLOps & Jenkins on AWS <br> 💬 Ask me about trading strategies, AI, & automation  <br>⚡ Fun fact: I blend finance & AI for out-of-the-box insights! 🚀
+🔭 Currently working on AI/ML projects in stock market analysis & image processing<br>👯 Open to collaborations in AI, trading & finance <br>🤝 Seeking help with advanced ML models <br>💬 Ask me about trading strategies, AI, & automation  <br>⚡ Fun fact: I blend finance & AI for out-of-the-box insights! 🚀
 
 
 ## 🌐 Socials:
